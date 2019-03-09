@@ -1,0 +1,37 @@
+body {
+	background-color: 
+}
+
+.group1 {
+  background-image: url(../img/4.jpg);
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+
+}
+
+.heading1 {
+	color: black
+}
+
+.heading2 {
+	color: black
+}
+
+.rounded-circle {
+	width: 80%
+}
+
+.group2 {
+	text-align: left;
+}
+
+.work {
+	padding: 20px;
+}
+
+iframe {
+	display: block;      
+    height: 100%;   
+}
