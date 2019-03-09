@@ -1,0 +1,24 @@
+body {
+	background-color: 
+}
+
+.group1 {
+  background-image: url("../img/3.jpg");
+  /*height: 100vh;*/
+}
+
+.heading1 {
+	color: black
+}
+
+.heading2 {
+	color: black
+}
+
+.img-circle {
+	width: 100%
+}
+
+.group2 {
+	text-align: left;
+}

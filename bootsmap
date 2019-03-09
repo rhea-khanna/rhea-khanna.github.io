@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/profile.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2 col-xs-12">
+          Rhea Khanna
+        </div>
+        <div class="col-md-10 col-xs-12">
+          An Msc Digital Marketing student at Nottingham Business School, seeking a 12-month placement in Marketing or Digital Marketing with an aim to develop a career in this field. Marketing is a passion and I am industrious, hungry and driven to excel. I am keen to experience challenging roles with a steep learning curve. In addition to learning marketing on the job, want to drive personal growth through leadership, teamwork, innovation and continuous learning opportunities.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
